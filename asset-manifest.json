@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/sasso-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sasso-app/static/js/main.523c8dde.chunk.js",
+    "main.js.map": "/sasso-app/static/js/main.523c8dde.chunk.js.map",
+    "runtime-main.js": "/sasso-app/static/js/runtime-main.5692d84f.js",
+    "runtime-main.js.map": "/sasso-app/static/js/runtime-main.5692d84f.js.map",
+    "static/css/2.3b87352d.chunk.css": "/sasso-app/static/css/2.3b87352d.chunk.css",
+    "static/js/2.ed21e735.chunk.js": "/sasso-app/static/js/2.ed21e735.chunk.js",
+    "static/js/2.ed21e735.chunk.js.map": "/sasso-app/static/js/2.ed21e735.chunk.js.map",
+    "index.html": "/sasso-app/index.html",
+    "precache-manifest.556d6088e01efe3312907cb3655aff2f.js": "/sasso-app/precache-manifest.556d6088e01efe3312907cb3655aff2f.js",
+    "service-worker.js": "/sasso-app/service-worker.js",
+    "static/css/2.3b87352d.chunk.css.map": "/sasso-app/static/css/2.3b87352d.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/sasso-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ed21e735.chunk.js.LICENSE.txt": "/sasso-app/static/js/2.ed21e735.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/sasso-app/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/epp.png": "/sasso-app/static/media/epp.0846de22.png",
+    "static/media/mobile.png": "/sasso-app/static/media/mobile.f4e32b8c.png",
+    "static/media/pasopeatonal.png": "/sasso-app/static/media/pasopeatonal.ce8fc732.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5692d84f.js",
+    "static/css/2.3b87352d.chunk.css",
+    "static/js/2.ed21e735.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.523c8dde.chunk.js"
+  ]
+}
