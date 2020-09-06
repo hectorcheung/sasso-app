@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sasso-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sasso-app/static/js/main.2c1a983e.chunk.js",
-    "main.js.map": "/sasso-app/static/js/main.2c1a983e.chunk.js.map",
+    "main.js": "/sasso-app/static/js/main.ddfece9a.chunk.js",
+    "main.js.map": "/sasso-app/static/js/main.ddfece9a.chunk.js.map",
     "runtime-main.js": "/sasso-app/static/js/runtime-main.5692d84f.js",
     "runtime-main.js.map": "/sasso-app/static/js/runtime-main.5692d84f.js.map",
     "static/css/2.3b87352d.chunk.css": "/sasso-app/static/css/2.3b87352d.chunk.css",
     "static/js/2.54a8bb00.chunk.js": "/sasso-app/static/js/2.54a8bb00.chunk.js",
     "static/js/2.54a8bb00.chunk.js.map": "/sasso-app/static/js/2.54a8bb00.chunk.js.map",
     "index.html": "/sasso-app/index.html",
-    "precache-manifest.940ca56f2fe3d7488af9137087baa21f.js": "/sasso-app/precache-manifest.940ca56f2fe3d7488af9137087baa21f.js",
+    "precache-manifest.830798d2eb2d5a0db1320ba6e57602df.js": "/sasso-app/precache-manifest.830798d2eb2d5a0db1320ba6e57602df.js",
     "service-worker.js": "/sasso-app/service-worker.js",
     "static/css/2.3b87352d.chunk.css.map": "/sasso-app/static/css/2.3b87352d.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/sasso-app/static/css/main.5f361e03.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.3b87352d.chunk.css",
     "static/js/2.54a8bb00.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2c1a983e.chunk.js"
+    "static/js/main.ddfece9a.chunk.js"
   ]
 }
