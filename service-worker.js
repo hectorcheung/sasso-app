@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sasso-app/precache-manifest.da5b0978b9c31d1c30d0235a658472f4.js"
+  "/sasso-app/precache-manifest.c7135534bc803c4140c3e24df18ac3f2.js"
 );
 
 self.addEventListener('message', (event) => {
