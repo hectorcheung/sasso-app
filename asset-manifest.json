@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sasso-app/static/css/main.382375fe.chunk.css",
-    "main.js": "/sasso-app/static/js/main.e2b1a513.chunk.js",
-    "main.js.map": "/sasso-app/static/js/main.e2b1a513.chunk.js.map",
+    "main.css": "/sasso-app/static/css/main.abce0835.chunk.css",
+    "main.js": "/sasso-app/static/js/main.11b71a42.chunk.js",
+    "main.js.map": "/sasso-app/static/js/main.11b71a42.chunk.js.map",
     "runtime-main.js": "/sasso-app/static/js/runtime-main.5692d84f.js",
     "runtime-main.js.map": "/sasso-app/static/js/runtime-main.5692d84f.js.map",
     "static/css/2.c4e77a0a.chunk.css": "/sasso-app/static/css/2.c4e77a0a.chunk.css",
-    "static/js/2.d483c471.chunk.js": "/sasso-app/static/js/2.d483c471.chunk.js",
-    "static/js/2.d483c471.chunk.js.map": "/sasso-app/static/js/2.d483c471.chunk.js.map",
+    "static/js/2.5399b4d8.chunk.js": "/sasso-app/static/js/2.5399b4d8.chunk.js",
+    "static/js/2.5399b4d8.chunk.js.map": "/sasso-app/static/js/2.5399b4d8.chunk.js.map",
     "index.html": "/sasso-app/index.html",
-    "precache-manifest.c7135534bc803c4140c3e24df18ac3f2.js": "/sasso-app/precache-manifest.c7135534bc803c4140c3e24df18ac3f2.js",
+    "precache-manifest.4c108d8692110151b6695365b0935193.js": "/sasso-app/precache-manifest.4c108d8692110151b6695365b0935193.js",
     "service-worker.js": "/sasso-app/service-worker.js",
     "static/css/2.c4e77a0a.chunk.css.map": "/sasso-app/static/css/2.c4e77a0a.chunk.css.map",
-    "static/css/main.382375fe.chunk.css.map": "/sasso-app/static/css/main.382375fe.chunk.css.map",
-    "static/js/2.d483c471.chunk.js.LICENSE.txt": "/sasso-app/static/js/2.d483c471.chunk.js.LICENSE.txt",
+    "static/css/main.abce0835.chunk.css.map": "/sasso-app/static/css/main.abce0835.chunk.css.map",
+    "static/js/2.5399b4d8.chunk.js.LICENSE.txt": "/sasso-app/static/js/2.5399b4d8.chunk.js.LICENSE.txt",
     "static/media/alerta.png": "/sasso-app/static/media/alerta.4da4c280.png",
     "static/media/art-limpieza.png": "/sasso-app/static/media/art-limpieza.67851edc.png",
     "static/media/semantic.min.css": "/sasso-app/static/media/outline-icons.ef60a4f6.woff",
@@ -44,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.5692d84f.js",
     "static/css/2.c4e77a0a.chunk.css",
-    "static/js/2.d483c471.chunk.js",
-    "static/css/main.382375fe.chunk.css",
-    "static/js/main.e2b1a513.chunk.js"
+    "static/js/2.5399b4d8.chunk.js",
+    "static/css/main.abce0835.chunk.css",
+    "static/js/main.11b71a42.chunk.js"
   ]
 }
