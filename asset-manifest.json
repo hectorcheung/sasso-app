@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sasso-app/static/css/main.e5c33df7.chunk.css",
-    "main.js": "/sasso-app/static/js/main.cd86505d.chunk.js",
-    "main.js.map": "/sasso-app/static/js/main.cd86505d.chunk.js.map",
+    "main.css": "/sasso-app/static/css/main.f0249bc1.chunk.css",
+    "main.js": "/sasso-app/static/js/main.673396e5.chunk.js",
+    "main.js.map": "/sasso-app/static/js/main.673396e5.chunk.js.map",
     "runtime-main.js": "/sasso-app/static/js/runtime-main.5692d84f.js",
     "runtime-main.js.map": "/sasso-app/static/js/runtime-main.5692d84f.js.map",
     "static/css/2.c4e77a0a.chunk.css": "/sasso-app/static/css/2.c4e77a0a.chunk.css",
     "static/js/2.3657ac12.chunk.js": "/sasso-app/static/js/2.3657ac12.chunk.js",
     "static/js/2.3657ac12.chunk.js.map": "/sasso-app/static/js/2.3657ac12.chunk.js.map",
     "index.html": "/sasso-app/index.html",
-    "precache-manifest.10de65d19e2563f2bd29bdaae5b22a29.js": "/sasso-app/precache-manifest.10de65d19e2563f2bd29bdaae5b22a29.js",
+    "precache-manifest.4297fbc40e46b0184d87cf580c90b5c6.js": "/sasso-app/precache-manifest.4297fbc40e46b0184d87cf580c90b5c6.js",
     "service-worker.js": "/sasso-app/service-worker.js",
     "static/css/2.c4e77a0a.chunk.css.map": "/sasso-app/static/css/2.c4e77a0a.chunk.css.map",
-    "static/css/main.e5c33df7.chunk.css.map": "/sasso-app/static/css/main.e5c33df7.chunk.css.map",
+    "static/css/main.f0249bc1.chunk.css.map": "/sasso-app/static/css/main.f0249bc1.chunk.css.map",
     "static/js/2.3657ac12.chunk.js.LICENSE.txt": "/sasso-app/static/js/2.3657ac12.chunk.js.LICENSE.txt",
     "static/media/alerta.png": "/sasso-app/static/media/alerta.4da4c280.png",
     "static/media/art-limpieza.png": "/sasso-app/static/media/art-limpieza.67851edc.png",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.5692d84f.js",
     "static/css/2.c4e77a0a.chunk.css",
     "static/js/2.3657ac12.chunk.js",
-    "static/css/main.e5c33df7.chunk.css",
-    "static/js/main.cd86505d.chunk.js"
+    "static/css/main.f0249bc1.chunk.css",
+    "static/js/main.673396e5.chunk.js"
   ]
 }
