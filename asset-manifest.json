@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sasso-app/static/css/main.f0249bc1.chunk.css",
-    "main.js": "/sasso-app/static/js/main.bab45f51.chunk.js",
-    "main.js.map": "/sasso-app/static/js/main.bab45f51.chunk.js.map",
+    "main.css": "/sasso-app/static/css/main.9df4b300.chunk.css",
+    "main.js": "/sasso-app/static/js/main.d07aedb8.chunk.js",
+    "main.js.map": "/sasso-app/static/js/main.d07aedb8.chunk.js.map",
     "runtime-main.js": "/sasso-app/static/js/runtime-main.5692d84f.js",
     "runtime-main.js.map": "/sasso-app/static/js/runtime-main.5692d84f.js.map",
     "static/css/2.c4e77a0a.chunk.css": "/sasso-app/static/css/2.c4e77a0a.chunk.css",
-    "static/js/2.81c0607c.chunk.js": "/sasso-app/static/js/2.81c0607c.chunk.js",
-    "static/js/2.81c0607c.chunk.js.map": "/sasso-app/static/js/2.81c0607c.chunk.js.map",
+    "static/js/2.c7d09d54.chunk.js": "/sasso-app/static/js/2.c7d09d54.chunk.js",
+    "static/js/2.c7d09d54.chunk.js.map": "/sasso-app/static/js/2.c7d09d54.chunk.js.map",
     "index.html": "/sasso-app/index.html",
-    "precache-manifest.6e0e1a0a2846cb230388680379b88570.js": "/sasso-app/precache-manifest.6e0e1a0a2846cb230388680379b88570.js",
+    "precache-manifest.b2c249a7a9a9025cc7a189071fe45724.js": "/sasso-app/precache-manifest.b2c249a7a9a9025cc7a189071fe45724.js",
     "service-worker.js": "/sasso-app/service-worker.js",
     "static/css/2.c4e77a0a.chunk.css.map": "/sasso-app/static/css/2.c4e77a0a.chunk.css.map",
-    "static/css/main.f0249bc1.chunk.css.map": "/sasso-app/static/css/main.f0249bc1.chunk.css.map",
-    "static/js/2.81c0607c.chunk.js.LICENSE.txt": "/sasso-app/static/js/2.81c0607c.chunk.js.LICENSE.txt",
+    "static/css/main.9df4b300.chunk.css.map": "/sasso-app/static/css/main.9df4b300.chunk.css.map",
+    "static/js/2.c7d09d54.chunk.js.LICENSE.txt": "/sasso-app/static/js/2.c7d09d54.chunk.js.LICENSE.txt",
     "static/media/alerta.png": "/sasso-app/static/media/alerta.4da4c280.png",
     "static/media/art-limpieza.png": "/sasso-app/static/media/art-limpieza.67851edc.png",
     "static/media/semantic.min.css": "/sasso-app/static/media/outline-icons.ef60a4f6.woff",
@@ -24,6 +24,7 @@
     "static/media/electric.png": "/sasso-app/static/media/electric.976aa3e2.png",
     "static/media/epp.png": "/sasso-app/static/media/epp.0846de22.png",
     "static/media/filtrar.png": "/sasso-app/static/media/filtrar.bbb0e990.png",
+    "static/media/fondo.jpg": "/sasso-app/static/media/fondo.12c126e8.jpg",
     "static/media/fuga.png": "/sasso-app/static/media/fuga.d66f6c12.png",
     "static/media/lavado-a-mano.png": "/sasso-app/static/media/lavado-a-mano.7873ab71.png",
     "static/media/mascarilla.png": "/sasso-app/static/media/mascarilla.a6d92170.png",
@@ -39,13 +40,14 @@
     "static/media/residuo_peligroso.png": "/sasso-app/static/media/residuo_peligroso.b9de3180.png",
     "static/media/seguridad_maq.png": "/sasso-app/static/media/seguridad_maq.645d6841.png",
     "static/media/suelo.png": "/sasso-app/static/media/suelo.bf33b373.png",
-    "static/media/uniforme.png": "/sasso-app/static/media/uniforme.f20c606a.png"
+    "static/media/uniforme.png": "/sasso-app/static/media/uniforme.f20c606a.png",
+    "static/media/user.png": "/sasso-app/static/media/user.7714816a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5692d84f.js",
     "static/css/2.c4e77a0a.chunk.css",
-    "static/js/2.81c0607c.chunk.js",
-    "static/css/main.f0249bc1.chunk.css",
-    "static/js/main.bab45f51.chunk.js"
+    "static/js/2.c7d09d54.chunk.js",
+    "static/css/main.9df4b300.chunk.css",
+    "static/js/main.d07aedb8.chunk.js"
   ]
 }
