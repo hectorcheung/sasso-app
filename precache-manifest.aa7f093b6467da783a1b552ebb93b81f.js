@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb3cc289c4c6aa3d2558c68fd097dc6f",
+    "revision": "ed4a638f6c8a69f740d0d7147fe564b8",
     "url": "/sasso-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sasso-app/static/css/2.c4e77a0a.chunk.css"
   },
   {
-    "revision": "7f751862441da80652ed",
+    "revision": "3edf8261790f9aaf9ac6",
     "url": "/sasso-app/static/css/main.9df4b300.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sasso-app/static/js/2.8924c7f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f751862441da80652ed",
-    "url": "/sasso-app/static/js/main.59e567f8.chunk.js"
+    "revision": "3edf8261790f9aaf9ac6",
+    "url": "/sasso-app/static/js/main.38d86211.chunk.js"
   },
   {
     "revision": "b1dfd7ef2b14197bbe24",
