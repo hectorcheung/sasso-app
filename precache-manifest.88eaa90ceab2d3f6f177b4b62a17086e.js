@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7384c5ddb2d4ea69b448be4896b7d93",
+    "revision": "bd44eca98b53d80929f3fca5f2826415",
     "url": "/sasso-app/index.html"
   },
   {
